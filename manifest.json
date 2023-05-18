@@ -1,0 +1,13 @@
+{
+  "name": "QR Code",
+  "description": "url to QR code",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup/index.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
